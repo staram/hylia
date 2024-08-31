@@ -1,10 +1,8 @@
 ---
-title: A post with figures and video
-date: '2019-06-18'
+title: heard it on the radio
+date: 2023-08-01T21:05:00.000Z
 tags:
-  - demo-content
-  - blog
-  - media
+  - music
 ---
 A post to demonstrate how a blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
 
@@ -14,7 +12,7 @@ If you want to make an image bleed-out, add a title attribute to it and the fron
 
 You can also add videos to posts from YouTube or Vimeo (or wherever, really) and the front-end will also make those bleed-out for you too.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_38JDGnr0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4kdqPfNsm2UiZ62JQiyG99?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Finally, how about a `<blockquote>`?
 
